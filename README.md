@@ -1,1 +1,1 @@
-# aiproject-image-classifier
+# Celebrity-recognition-system
